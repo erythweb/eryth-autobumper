@@ -20,3 +20,11 @@ TOKEN=
 CHANNEL_ID=
 ```
 *Note __channel_id__ is your bump channel.*
+
+Open a terminal and run the following command:
+```
+npm i
+```
+
+Start the tool with:
+**eryth.bat**
