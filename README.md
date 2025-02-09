@@ -1,5 +1,6 @@
 # Eryth AutoBump (Selfbot)
 
+Simple discord auto bump tool.
 
 # WARNING ⚠️
 
@@ -18,4 +19,4 @@ Put your Token and your channel id **.env**
 TOKEN=
 CHANNEL_ID=
 ```
-*Note __channel_id__ is your bump channel*
+*Note __channel_id__ is your bump channel.*
