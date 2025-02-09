@@ -27,4 +27,6 @@ npm i
 ```
 
 Start the tool with:
-**eryth.bat**
+```
+eryth.bat
+```
